@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pwnagotchi Info
-email: ""
+email: "josepgl at gmail dot com"
 description: >- # this means to ignore newlines until "baseurl:"
   Notes about pwnagotchi to complement the official documentation 
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # github_username:  nicolas-van
 # permalink: :title
 
-theme: minima
+theme: moonwalk
 
 repository: "josepgl/pwnagotchi-info"
 
