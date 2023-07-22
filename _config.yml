@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # github_username:  nicolas-van
 # permalink: :title
 
-theme: jekyll-whiteglass
+# theme: jekyll-whiteglass
 
 repository: "josepgl/pwnagotchi-info"
 
